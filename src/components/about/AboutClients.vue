@@ -7,48 +7,48 @@ export default {
 	},
 	data: () => {
 		return {
-			clientsHeading: 'Some of the brands I have worked with',
+			clientsHeading: 'Some of the technologies I have worked with',
 			clients: [
 				{
 					id: 1,
-					title: 'Amazon',
-					img: require('@/assets/images/brands/amazon_gray.png'),
+					title: 'JavaScript',
+					img: require('@/assets/images/brands/jscript.png'),
 				},
 				{
 					id: 2,
-					title: 'Sony',
-					img: require('@/assets/images/brands/sony_gray.png'),
+					title: 'Vue.js',
+					img: require('@/assets/images/brands/vuejs.png'),
 				},
 				{
 					id: 3,
-					title: 'Adidas',
-					img: require('@/assets/images/brands/adidas_gray.png'),
+					title: 'Tailwind CSS',
+					img: require('@/assets/images/brands/tailwind.png'),
 				},
 				{
 					id: 4,
-					title: 'FILA',
-					img: require('@/assets/images/brands/fila_gray.png'),
+					title: 'jQuery',
+					img: require('@/assets/images/brands/jquery (1).png'),
 				},
 				{
 					id: 5,
-					title: 'NB',
-					img: require('@/assets/images/brands/nb_gray.png'),
+					title: 'PHP',
+					img: require('@/assets/images/brands/php.png'),
 				},
 				{
 					id: 6,
-					title: 'SAMSUNG',
-					img: require('@/assets/images/brands/samsung_gray.png'),
+					title: 'R Programming',
+					img: require('@/assets/images/brands/rlanguage.jpg'),
 				},
 				{
 					id: 7,
 					title: 'CANON',
-					img: require('@/assets/images/brands/canon_gray.png'),
+					img: require('@/assets/images/brands/python.png'),
 				},
-				{
-					id: 7,
-					title: 'PUMA',
-					img: require('@/assets/images/brands/puma_gray.png'),
-				},
+				// {
+				// 	id: 7,
+				// 	title: 'PUMA',
+				// 	img: require('@/assets/images/brands/puma_gray.png'),
+				// },
 			],
 		};
 	},
