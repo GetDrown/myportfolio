@@ -41,7 +41,7 @@ export default {
 			<div class="flex justify-center sm:block">
 				<a
 					
-					href="https://www.canva.com/design/DAGIEZ7R87I/d-l9YPj25ucpMsxpI9twAg/edit?utm_content=DAGIEZ7R87I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+					href="https://www.canva.com/design/DAGLRXqT1qE/EQrQxQHNXQ8UIIEgKg4Q3g/edit?utm_content=DAGLRXqT1qE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 					class="flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 sm:mb-0 text-lg border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500 text-gray-500 hover:text-white duration-500"
 					
 				>
